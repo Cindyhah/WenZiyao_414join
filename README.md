@@ -1,6 +1,6 @@
 # WenZiyao_414join
 
-![乌梅小番茄](https://github.com/Cindyhah/WenZiyao_414join/blob/main/images/e7bf89fb384498b419b4e578af364c0.jpg?raw=true)
+<img src="https://github.com/Cindyhah/WenZiyao_414join/blob/main/images/e7bf89fb384498b419b4e578af364c0.jpg?raw=true" alt="乌梅小番茄" style="zoom: 25%;" />
 
 ## 个人简介
 
